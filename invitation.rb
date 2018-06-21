@@ -4,6 +4,7 @@
 # * date
 # * time
 # * host_name
+def party
 puts "Who do you want to invite?"
 guest_name = gets.chomp.capitalize
 
